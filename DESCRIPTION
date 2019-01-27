@@ -1,0 +1,18 @@
+Package: BSgenome.Scerevisiae.ensembl.release94
+Title: Chromosomal DNA of Saccharomyces cerevisiae
+Description: Full genome sequences for Scerevisiae
+Version: 1.0
+Author: The Bioconductor Dev Team
+Maintainer: Bioconductor Package Maintainer <maintainer@bioconductor.org>
+Depends: BSgenome (>= 1.48.0)
+Imports: BSgenome
+Suggests: 
+License: Artistic-2.0
+organism: Saccharomyces cerevisiae
+common_name: baker's yeast
+provider: ensembl
+provider_version: release94
+release_date: Aug. 2018
+release_name: WHY DO YOU NEED THIS INFORMATION
+source_url: ensemblorg.ebi.ac.uk
+biocViews: AnnotationData, Genetics, BSgenome, Saccharomyces_cerevisiae
